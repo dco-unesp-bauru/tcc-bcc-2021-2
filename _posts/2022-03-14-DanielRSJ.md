@@ -1,7 +1,6 @@
-﻿---
+---
 layout: posts
-
-title:  "Sistema de Reconhecimento Biométrico Baseado em Marcha Utilizando Poses 2D"
+title: "Sistema de Reconhecimento Biométrico Baseado em Marcha Utilizando Poses 2D"
 
 date:   2022-03-14 16:16:07 -0600
 
