@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Back-end de jogos educacionais"
-date:   2022-03-14 16:16:19 -0600
+date:   2022-03-14 16:16:19
 categories: trabalho
 autornick: MauricioSA
 autor: "Maurício Scarelli Arantes"
