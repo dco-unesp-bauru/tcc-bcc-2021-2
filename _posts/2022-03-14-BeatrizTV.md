@@ -1,6 +1,5 @@
 ﻿---
-layout: 
-posts
+layout: posts
 title:  "Sistema de Resposta em Sala de Aula Mobile para Auxiliar a Avaliação da Aprendizagem"
 date:   2022-03-14 16:16:06 -0600
 categories: trabalho
