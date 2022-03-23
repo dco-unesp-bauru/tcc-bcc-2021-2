@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Horta vertical com sistema de monitoramento IoT"
-date:   2022-03-14 16:16:18 -0600
+date:   2022-03-14 16:16:18
 categories: trabalho
 autornick: MatheusSN
 autor: "Matheus Sinto Novaes"
