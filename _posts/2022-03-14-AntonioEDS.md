@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Sistema de Ensino Remoto de Educação Física Para Crianças Através da Gamificação"
-date:   2022-03-14 16:16:05 -0600
+date:   2022-03-14
 categories: trabalho
 autornick: AntonioEDS
 autor: "Antonio Eugênio Domingues Silva"
