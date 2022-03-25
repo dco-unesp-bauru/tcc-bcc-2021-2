@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "istema de Resposta em Sala de Aula Mobile para Auxiliar a Avaliação da Aprendizagem"
+title:  "Sistema de Resposta em Sala de Aula Mobile para Auxiliar a Avaliação da Aprendizagem"
 date:   2022-03-01 16:16:39 -0600
 categories: trabalho
 autornick: BeatrizTV
